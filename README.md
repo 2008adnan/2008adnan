@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Web Developer | Entropy Reducer<br>I spend my days studying the laws of Thermodynamics and my nights defining the laws of my own digital interfaces.<br>💻 Tech Stack: HTML, CSS, & Java.<br>⚡ Current Project: Building high-performance websites with zero net displacement.<br>📈 Status: Optimizing my internal functions for maximum yield.
 
 
